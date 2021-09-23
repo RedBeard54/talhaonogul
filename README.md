@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nerhorizons
+- 👋 Hi, I’m @newhorizons
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on someone for help learning
